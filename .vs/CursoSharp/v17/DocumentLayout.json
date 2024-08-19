@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projeto-SmartTI\\CursoSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|c:\\projeto-smartti\\cursosharp\\cursosharp\\extruturadecontrole\\usandocontinue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|solutionrelative:cursosharp\\extruturadecontrole\\usandocontinue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|c:\\projeto-smartti\\cursosharp\\cursosharp\\extruturadecontrole\\usandobreak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|solutionrelative:cursosharp\\extruturadecontrole\\usandobreak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|c:\\projeto-smartti\\cursosharp\\cursosharp\\extruturadecontrole\\estruturawhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|solutionrelative:cursosharp\\extruturadecontrole\\estruturawhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|c:\\projeto-smartti\\cursosharp\\cursosharp\\extruturadecontrole\\estruturaswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|solutionrelative:cursosharp\\extruturadecontrole\\estruturaswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|c:\\projeto-smartti\\cursosharp\\cursosharp\\extruturadecontrole\\estruturaifelseif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|solutionrelative:cursosharp\\extruturadecontrole\\estruturaifelseif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|c:\\projeto-smartti\\cursosharp\\cursosharp\\extruturadecontrole\\estruturaifelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|solutionrelative:cursosharp\\extruturadecontrole\\estruturaifelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|c:\\projeto-smartti\\cursosharp\\cursosharp\\extruturadecontrole\\estruturaif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|solutionrelative:cursosharp\\extruturadecontrole\\estruturaif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|c:\\projeto-smartti\\cursosharp\\cursosharp\\extruturadecontrole\\estruturaforeach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|solutionrelative:cursosharp\\extruturadecontrole\\estruturaforeach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|c:\\projeto-smartti\\cursosharp\\cursosharp\\extruturadecontrole\\estruturafor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|solutionrelative:cursosharp\\extruturadecontrole\\estruturafor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|c:\\projeto-smartti\\cursosharp\\cursosharp\\extruturadecontrole\\estruturadowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|solutionrelative:cursosharp\\extruturadecontrole\\estruturadowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|c:\\projeto-smartti\\cursosharp\\cursosharp\\classesemetodos\\getset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10472E43-F424-4D16-9F11-F040009D6AC2}|CursoSharp\\CursoSharp.csproj|solutionrelative:cursosharp\\classesemetodos\\getset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsandoContinue.cs",
+              "DocumentMoniker": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ExtruturaDeControle\\UsandoContinue.cs",
+              "RelativeDocumentMoniker": "CursoSharp\\ExtruturaDeControle\\UsandoContinue.cs",
+              "ToolTip": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ExtruturaDeControle\\UsandoContinue.cs",
+              "RelativeToolTip": "CursoSharp\\ExtruturaDeControle\\UsandoContinue.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:51:27.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsandoBreak.cs",
+              "DocumentMoniker": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ExtruturaDeControle\\UsandoBreak.cs",
+              "RelativeDocumentMoniker": "CursoSharp\\ExtruturaDeControle\\UsandoBreak.cs",
+              "ToolTip": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ExtruturaDeControle\\UsandoBreak.cs",
+              "RelativeToolTip": "CursoSharp\\ExtruturaDeControle\\UsandoBreak.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:51:25.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstruturaWhile.cs",
+              "DocumentMoniker": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ExtruturaDeControle\\EstruturaWhile.cs",
+              "RelativeDocumentMoniker": "CursoSharp\\ExtruturaDeControle\\EstruturaWhile.cs",
+              "ToolTip": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ExtruturaDeControle\\EstruturaWhile.cs",
+              "RelativeToolTip": "CursoSharp\\ExtruturaDeControle\\EstruturaWhile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:51:25.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstruturaSwitch.cs",
+              "DocumentMoniker": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ExtruturaDeControle\\EstruturaSwitch.cs",
+              "RelativeDocumentMoniker": "CursoSharp\\ExtruturaDeControle\\EstruturaSwitch.cs",
+              "ToolTip": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ExtruturaDeControle\\EstruturaSwitch.cs",
+              "RelativeToolTip": "CursoSharp\\ExtruturaDeControle\\EstruturaSwitch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:51:24.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EstruturaIfElseIf.cs",
+              "DocumentMoniker": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ExtruturaDeControle\\EstruturaIfElseIf.cs",
+              "RelativeDocumentMoniker": "CursoSharp\\ExtruturaDeControle\\EstruturaIfElseIf.cs",
+              "ToolTip": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ExtruturaDeControle\\EstruturaIfElseIf.cs",
+              "RelativeToolTip": "CursoSharp\\ExtruturaDeControle\\EstruturaIfElseIf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:51:22.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EstruturaIfElse.cs",
+              "DocumentMoniker": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ExtruturaDeControle\\EstruturaIfElse.cs",
+              "RelativeDocumentMoniker": "CursoSharp\\ExtruturaDeControle\\EstruturaIfElse.cs",
+              "ToolTip": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ExtruturaDeControle\\EstruturaIfElse.cs",
+              "RelativeToolTip": "CursoSharp\\ExtruturaDeControle\\EstruturaIfElse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:51:20.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EstruturaIf.cs",
+              "DocumentMoniker": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ExtruturaDeControle\\EstruturaIf.cs",
+              "RelativeDocumentMoniker": "CursoSharp\\ExtruturaDeControle\\EstruturaIf.cs",
+              "ToolTip": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ExtruturaDeControle\\EstruturaIf.cs",
+              "RelativeToolTip": "CursoSharp\\ExtruturaDeControle\\EstruturaIf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:51:18.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstruturaForEach.cs",
+              "DocumentMoniker": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ExtruturaDeControle\\EstruturaForEach.cs",
+              "RelativeDocumentMoniker": "CursoSharp\\ExtruturaDeControle\\EstruturaForEach.cs",
+              "ToolTip": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ExtruturaDeControle\\EstruturaForEach.cs",
+              "RelativeToolTip": "CursoSharp\\ExtruturaDeControle\\EstruturaForEach.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:51:14.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EstruturaFor.cs",
+              "DocumentMoniker": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ExtruturaDeControle\\EstruturaFor.cs",
+              "RelativeDocumentMoniker": "CursoSharp\\ExtruturaDeControle\\EstruturaFor.cs",
+              "ToolTip": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ExtruturaDeControle\\EstruturaFor.cs",
+              "RelativeToolTip": "CursoSharp\\ExtruturaDeControle\\EstruturaFor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:51:12.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EstruturaDoWhile.cs",
+              "DocumentMoniker": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ExtruturaDeControle\\EstruturaDoWhile.cs",
+              "RelativeDocumentMoniker": "CursoSharp\\ExtruturaDeControle\\EstruturaDoWhile.cs",
+              "ToolTip": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ExtruturaDeControle\\EstruturaDoWhile.cs",
+              "RelativeToolTip": "CursoSharp\\ExtruturaDeControle\\EstruturaDoWhile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:51:10.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetSet.cs",
+              "DocumentMoniker": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ClassesEMetodos\\GetSet.cs",
+              "RelativeDocumentMoniker": "CursoSharp\\ClassesEMetodos\\GetSet.cs",
+              "ToolTip": "C:\\Projeto-SmartTI\\CursoSharp\\CursoSharp\\ClassesEMetodos\\GetSet.cs",
+              "RelativeToolTip": "CursoSharp\\ClassesEMetodos\\GetSet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:51:07.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

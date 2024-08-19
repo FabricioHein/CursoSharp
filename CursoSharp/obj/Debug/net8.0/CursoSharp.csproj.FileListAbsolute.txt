@@ -1,0 +1,14 @@
+C:\Projeto-SmartTI\CursoSharp\CursoSharp\bin\Debug\net8.0\CursoSharp.exe
+C:\Projeto-SmartTI\CursoSharp\CursoSharp\bin\Debug\net8.0\CursoSharp.deps.json
+C:\Projeto-SmartTI\CursoSharp\CursoSharp\bin\Debug\net8.0\CursoSharp.runtimeconfig.json
+C:\Projeto-SmartTI\CursoSharp\CursoSharp\bin\Debug\net8.0\CursoSharp.dll
+C:\Projeto-SmartTI\CursoSharp\CursoSharp\bin\Debug\net8.0\CursoSharp.pdb
+C:\Projeto-SmartTI\CursoSharp\CursoSharp\obj\Debug\net8.0\CursoSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto-SmartTI\CursoSharp\CursoSharp\obj\Debug\net8.0\CursoSharp.AssemblyInfoInputs.cache
+C:\Projeto-SmartTI\CursoSharp\CursoSharp\obj\Debug\net8.0\CursoSharp.AssemblyInfo.cs
+C:\Projeto-SmartTI\CursoSharp\CursoSharp\obj\Debug\net8.0\CursoSharp.csproj.CoreCompileInputs.cache
+C:\Projeto-SmartTI\CursoSharp\CursoSharp\obj\Debug\net8.0\CursoSharp.dll
+C:\Projeto-SmartTI\CursoSharp\CursoSharp\obj\Debug\net8.0\refint\CursoSharp.dll
+C:\Projeto-SmartTI\CursoSharp\CursoSharp\obj\Debug\net8.0\CursoSharp.pdb
+C:\Projeto-SmartTI\CursoSharp\CursoSharp\obj\Debug\net8.0\CursoSharp.genruntimeconfig.cache
+C:\Projeto-SmartTI\CursoSharp\CursoSharp\obj\Debug\net8.0\ref\CursoSharp.dll
