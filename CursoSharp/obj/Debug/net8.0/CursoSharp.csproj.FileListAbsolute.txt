@@ -12,3 +12,4 @@ C:\Projeto-SmartTI\CursoSharp\CursoSharp\obj\Debug\net8.0\refint\CursoSharp.dll
 C:\Projeto-SmartTI\CursoSharp\CursoSharp\obj\Debug\net8.0\CursoSharp.pdb
 C:\Projeto-SmartTI\CursoSharp\CursoSharp\obj\Debug\net8.0\CursoSharp.genruntimeconfig.cache
 C:\Projeto-SmartTI\CursoSharp\CursoSharp\obj\Debug\net8.0\ref\CursoSharp.dll
+C:\Projeto-SmartTI\CursoSharp\CursoSharp\obj\Debug\net8.0\CursoSharp.sourcelink.json
